@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/ShowM">
+  <Resource auth="Container" driverClassName="org.postgresql.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="showdomilhao" password="postgres" type="javax.sql.DataSource" url="jdbc:postgresql://localhost:5432/showdomilhao" username="postgres"/>
+  <Resource auth="Container" driverClassName="org.postgresql.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="show" password="postgres" type="javax.sql.DataSource" url="jdbc:postgresql://localhost:5432/postgres" username="postgres"/>
+</Context>
